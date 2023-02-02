@@ -1,10 +1,5 @@
 const Data = [
-    {
-        id:"1",
-        name:"Black Forest Cake",
-        imgsrc:"black-forest.jpg",
-    },
-    {
+        {
         id:"2",
         name:"Blue Cupcakes for Dad",
         imgsrc:"blue-cupcakes-dad.jpg",
@@ -13,6 +8,11 @@ const Data = [
         id:"3",
         name:"Bubblegum ice cream Drip Cake",
         imgsrc:"bubblegum-icecream-drip.jpg",
+    },
+    {
+        id:"1",
+        name:"Black Forest Cake",
+        imgsrc:"black-forest.jpg",
     },
     {
         id:"4",
