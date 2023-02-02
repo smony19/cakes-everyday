@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cakes-everyday/static/css/main.783483e8.css",
+    "main.js": "/cakes-everyday/static/js/main.90d358ee.js",
+    "static/media/choco-nut-love.jpg": "/cakes-everyday/static/media/choco-nut-love.6916487b74003d013b00.jpg",
+    "static/media/blue-cupcakes-dad.jpg": "/cakes-everyday/static/media/blue-cupcakes-dad.d125a6aaf581cbd29b2a.jpg",
+    "static/media/strawberry-numbers.jpeg": "/cakes-everyday/static/media/strawberry-numbers.e4744529d8ca19aba874.jpeg",
+    "static/media/black-forest.jpg": "/cakes-everyday/static/media/black-forest.154ac1f970410ec142cd.jpg",
+    "static/media/summer-fruits-alphabet.jpg": "/cakes-everyday/static/media/summer-fruits-alphabet.61ad583124c8c8a919d0.jpg",
+    "static/media/vanilla-animal.jpg": "/cakes-everyday/static/media/vanilla-animal.82d2eae557997657c65f.jpg",
+    "static/media/choc-thomas-train.jpg": "/cakes-everyday/static/media/choc-thomas-train.5fcb1f60eb6b2177b2b9.jpg",
+    "static/media/redvelvet-boxing.jpg": "/cakes-everyday/static/media/redvelvet-boxing.f3e55e8701d870ad085e.jpg",
+    "static/media/bubblegum-icecream-drip.jpg": "/cakes-everyday/static/media/bubblegum-icecream-drip.d2f31710b4463250a479.jpg",
+    "static/media/strawberries-and-cream.jpg": "/cakes-everyday/static/media/strawberries-and-cream.9db911b05a27eba582cb.jpg",
+    "static/media/mango-doremon.jpg": "/cakes-everyday/static/media/mango-doremon.d9f339ae29b9e732bace.jpg",
+    "static/media/strawberry-baby-shower.jpeg": "/cakes-everyday/static/media/strawberry-baby-shower.476e522ae8b0c6f5034d.jpeg",
+    "static/media/vanilla-barbie.jpg": "/cakes-everyday/static/media/vanilla-barbie.4d0cde54463974d65c89.jpg",
+    "static/media/choc-truffle-dinosaur.jpg": "/cakes-everyday/static/media/choc-truffle-dinosaur.d905a9f7c6b3eb3e46ba.jpg",
+    "index.html": "/cakes-everyday/index.html",
+    "main.783483e8.css.map": "/cakes-everyday/static/css/main.783483e8.css.map",
+    "main.90d358ee.js.map": "/cakes-everyday/static/js/main.90d358ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783483e8.css",
+    "static/js/main.90d358ee.js"
+  ]
+}
